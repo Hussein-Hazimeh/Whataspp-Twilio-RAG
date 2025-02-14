@@ -1,0 +1,4 @@
+pydantic-ai
+openai
+pinecone-client
+python-dotenv 
